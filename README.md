@@ -1,5 +1,5 @@
-<h1 align="center">Hi 👋, I'm Carlos Guillén</h1>
-<h3 align="center">A passionate frontend developer from Zaragoza</h3>
+<h1 align="center">Hi 👋, there!</h1>
+<h3 align="left">I'm Carlos Guillén, a passionate frontend developer from Zaragoza</h3>
 
 - 🔭 I'm interested in **mobile app development**
 
