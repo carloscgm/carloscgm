@@ -1,10 +1,8 @@
-<h1 align="center">Hi 👋, there!</h1>
+<h1 align="left">Hi 👋, there!</h1>
 <h3 align="left">I'm Carlos Guillén, a passionate frontend developer from Zaragoza</h3>
 
 - 🔭 I'm interested in **mobile app development**
-
 - 💬 Ask me about **Flutter**
-
 - 📫 How to reach me **text me in Linkedin**
 
 <h3 align="left">Connect with me:</h3>
